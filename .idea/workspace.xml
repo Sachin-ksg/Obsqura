@@ -5,53 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="c3cd561f-9881-4189-8863-0565f77a2254" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/pythonProject.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Conditional_Statments/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Conditional_Statments/condition.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ControlFlow_Statemnet/For_loop.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ControlFlow_Statemnet/While_Loop.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ControlFlow_Statemnet/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Exception_Handling/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Exception_Handling/exception.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/FileHandling/JSON_Handling.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/FileHandling/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/FileHandling/data.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/FileHandling/excel.ready.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/FileHandling/file.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/FileHandling/txt_file.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Functions/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Functions/function.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Functions/function2.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Functions/lambda_functions.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Introduction/Collection_Datastructures.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Introduction/DataTypes_Methods.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Introduction/Input.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Introduction/Variables.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Introduction/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/OOPS/Abstraction.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/OOPS/Constructor.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/OOPS/Encapsulation.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/OOPS/Inheritance.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/OOPS/Polymorphism.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/OOPS/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/OOPS/oops_intro.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Operators/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Operators/operator.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Practice/Assignment1.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Practice/Assignment2.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Practice/Assignment3.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Practice/Assignment4.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Practice/Data_Structures.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Practice/Questions.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Practice/Testing.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Practice/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/main.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -82,39 +36,39 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;Python.Assignment1.executor&quot;: &quot;Run&quot;,
-    &quot;Python.Assignment2.executor&quot;: &quot;Run&quot;,
-    &quot;Python.Assignment4.executor&quot;: &quot;Run&quot;,
-    &quot;Python.Collection_Datastructures.executor&quot;: &quot;Run&quot;,
-    &quot;Python.Constructor.executor&quot;: &quot;Run&quot;,
-    &quot;Python.DataTypes_Methods.executor&quot;: &quot;Run&quot;,
-    &quot;Python.Data_Structures.executor&quot;: &quot;Run&quot;,
-    &quot;Python.Encapsulation.executor&quot;: &quot;Run&quot;,
-    &quot;Python.For_loop.executor&quot;: &quot;Run&quot;,
-    &quot;Python.Function2.executor&quot;: &quot;Run&quot;,
-    &quot;Python.Inheritance.executor&quot;: &quot;Run&quot;,
-    &quot;Python.Input.executor&quot;: &quot;Run&quot;,
-    &quot;Python.JSON_Handling.executor&quot;: &quot;Run&quot;,
-    &quot;Python.Polymorphism.executor&quot;: &quot;Run&quot;,
-    &quot;Python.Questions.executor&quot;: &quot;Run&quot;,
-    &quot;Python.Testing.executor&quot;: &quot;Run&quot;,
-    &quot;Python.Variables.executor&quot;: &quot;Run&quot;,
-    &quot;Python.While_Loop.executor&quot;: &quot;Run&quot;,
-    &quot;Python.condition.executor&quot;: &quot;Run&quot;,
-    &quot;Python.excel.ready.executor&quot;: &quot;Run&quot;,
-    &quot;Python.exception.executor&quot;: &quot;Run&quot;,
-    &quot;Python.function.executor&quot;: &quot;Run&quot;,
-    &quot;Python.lambda_functions.executor&quot;: &quot;Run&quot;,
-    &quot;Python.main.executor&quot;: &quot;Run&quot;,
-    &quot;Python.oops_intro.executor&quot;: &quot;Run&quot;,
-    &quot;Python.operator.executor&quot;: &quot;Run&quot;,
-    &quot;Python.txt_file.executor&quot;: &quot;Run&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;master&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Python.Assignment1.executor": "Run",
+    "Python.Assignment2.executor": "Run",
+    "Python.Assignment4.executor": "Run",
+    "Python.Collection_Datastructures.executor": "Run",
+    "Python.Constructor.executor": "Run",
+    "Python.DataTypes_Methods.executor": "Run",
+    "Python.Data_Structures.executor": "Run",
+    "Python.Encapsulation.executor": "Run",
+    "Python.For_loop.executor": "Run",
+    "Python.Function2.executor": "Run",
+    "Python.Inheritance.executor": "Run",
+    "Python.Input.executor": "Run",
+    "Python.JSON_Handling.executor": "Run",
+    "Python.Polymorphism.executor": "Run",
+    "Python.Questions.executor": "Run",
+    "Python.Testing.executor": "Run",
+    "Python.Variables.executor": "Run",
+    "Python.While_Loop.executor": "Run",
+    "Python.condition.executor": "Run",
+    "Python.excel.ready.executor": "Run",
+    "Python.exception.executor": "Run",
+    "Python.function.executor": "Run",
+    "Python.lambda_functions.executor": "Run",
+    "Python.main.executor": "Run",
+    "Python.oops_intro.executor": "Run",
+    "Python.operator.executor": "Run",
+    "Python.txt_file.executor": "Run",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "git-widget-placeholder": "main"
   }
-}</component>
+}]]></component>
   <component name="RunManager" selected="Python.exception">
     <configuration name="Encapsulation" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="pythonProject" />
