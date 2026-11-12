@@ -1,0 +1,279 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="c3cd561f-9881-4189-8863-0565f77a2254" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/pythonProject.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Conditional_Statments/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Conditional_Statments/condition.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ControlFlow_Statemnet/For_loop.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ControlFlow_Statemnet/While_Loop.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ControlFlow_Statemnet/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Exception_Handling/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Exception_Handling/exception.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/FileHandling/JSON_Handling.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/FileHandling/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/FileHandling/data.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/FileHandling/excel.ready.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/FileHandling/file.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/FileHandling/txt_file.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Functions/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Functions/function.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Functions/function2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Functions/lambda_functions.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Introduction/Collection_Datastructures.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Introduction/DataTypes_Methods.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Introduction/Input.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Introduction/Variables.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Introduction/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OOPS/Abstraction.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OOPS/Constructor.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OOPS/Encapsulation.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OOPS/Inheritance.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OOPS/Polymorphism.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OOPS/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/OOPS/oops_intro.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Operators/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Operators/operator.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Practice/Assignment1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Practice/Assignment2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Practice/Assignment3.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Practice/Assignment4.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Practice/Data_Structures.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Practice/Questions.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Practice/Testing.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Practice/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/main.py" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/Functions/function.py" root0="SKIP_INSPECTION" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 8
+}</component>
+  <component name="ProjectId" id="3KtaM6YsuukNivyZnepScPJ90hy" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;Python.Assignment1.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Assignment2.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Assignment4.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Collection_Datastructures.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Constructor.executor&quot;: &quot;Run&quot;,
+    &quot;Python.DataTypes_Methods.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Data_Structures.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Encapsulation.executor&quot;: &quot;Run&quot;,
+    &quot;Python.For_loop.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Function2.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Inheritance.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Input.executor&quot;: &quot;Run&quot;,
+    &quot;Python.JSON_Handling.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Polymorphism.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Questions.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Testing.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Variables.executor&quot;: &quot;Run&quot;,
+    &quot;Python.While_Loop.executor&quot;: &quot;Run&quot;,
+    &quot;Python.condition.executor&quot;: &quot;Run&quot;,
+    &quot;Python.excel.ready.executor&quot;: &quot;Run&quot;,
+    &quot;Python.exception.executor&quot;: &quot;Run&quot;,
+    &quot;Python.function.executor&quot;: &quot;Run&quot;,
+    &quot;Python.lambda_functions.executor&quot;: &quot;Run&quot;,
+    &quot;Python.main.executor&quot;: &quot;Run&quot;,
+    &quot;Python.oops_intro.executor&quot;: &quot;Run&quot;,
+    &quot;Python.operator.executor&quot;: &quot;Run&quot;,
+    &quot;Python.txt_file.executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;master&quot;
+  }
+}</component>
+  <component name="RunManager" selected="Python.exception">
+    <configuration name="Encapsulation" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="pythonProject" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/OOPS" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/OOPS/Encapsulation.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="JSON_Handling" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="pythonProject" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/FileHandling" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/FileHandling/JSON_Handling.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="excel.ready" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="pythonProject" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/FileHandling" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/FileHandling/excel.ready.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="exception" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="pythonProject" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Exception_Handling" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Exception_Handling/exception.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="main" type="PythonConfigurationType" factoryName="Python" nameIsGenerated="true">
+      <module name="pythonProject" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/main.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="txt_file" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="pythonProject" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/FileHandling" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/FileHandling/txt_file.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.exception" />
+        <item itemvalue="Python.excel.ready" />
+        <item itemvalue="Python.JSON_Handling" />
+        <item itemvalue="Python.txt_file" />
+        <item itemvalue="Python.Encapsulation" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-python-sdk-975db3bf15a3-31b6be0877a2-com.jetbrains.pycharm.community.sharedIndexes.bundled-PC-241.18034.82" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="c3cd561f-9881-4189-8863-0565f77a2254" name="Changes" comment="" />
+      <created>1792379266895</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1792379266895</updated>
+    </task>
+    <servers />
+  </component>
+</project>
